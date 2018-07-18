@@ -1,0 +1,9 @@
+flujo de trabajo para repositorio de GIT colaborativo:
+1.- Clonar el repositorio
+2.- Trabajar lo necesario
+3.- Agregar tus cambios (git status, git add {archivo})
+4.- ANTES Y MUY IMPORTANTE: ANTES de hacer commit, hacer: git pull
+5.- si procede sin ningún error, adelante, puedes hacer commit y push,
+    de lo contrario cancela y haz el paso 6.
+6.- git stash, git pull, git stash pop
+7.- commit y push normal ;)
